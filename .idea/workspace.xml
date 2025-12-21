@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1aa78f41-d262-418e-a713-6ec2a120d7f5" name="변경" comment="feat: 컨트롤러 @Valid 유효성 검증 및 로깅 적용" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="discodeit" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="discodeit" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Exception" />
+        <option value="Record" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="378gRdBXCMhlE9Wq8ffRJpFyhoM" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.sprint_mission_7 [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;새/업데이트된 데이터베이스 구성이 발견되었습니다&quot;,
+    &quot;Notification.DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;최현석-sprint7&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/사용자/Downloads/sprint_mission_7&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sprint.mission.discodeit.service.basic" />
+      <recent name="com.sprint.mission.discodeit.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\사용자\Downloads\sprint_mission_7\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.sprint_mission_7 [dependencies]">
+    <configuration name="sprint_mission_7 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DiscodeitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discodeit.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sprint.mission.discodeit.DiscodeitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.sprint_mission_7 [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="1aa78f41-d262-418e-a713-6ec2a120d7f5" name="변경" comment="" />
+      <created>1766290105528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766290105528</updated>
+      <workItem from="1766290106949" duration="1567000" />
+      <workItem from="1766291721128" duration="3474000" />
+      <workItem from="1766295234990" duration="205000" />
+      <workItem from="1766295451293" duration="3546000" />
+      <workItem from="1766354230043" duration="2596000" />
+    </task>
+    <task id="LOCAL-00001" summary="config: 개발/운영/테스트 환경 프로파일 설정 분리">
+      <option name="closed" value="true" />
+      <created>1766293033011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293033011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="config: Logback 로깅 설정 및 파일 롤링 구성">
+      <option name="closed" value="true" />
+      <created>1766293174601</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293174601</updated>
+    </task>
+    <task id="LOCAL-00003" summary="config: Actuator 엔드포인트 및 애플리케이션 정보 설정">
+      <option name="closed" value="true" />
+      <created>1766293219575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293219575</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: ErrorCode Enum 클래스 정의">
+      <option name="closed" value="true" />
+      <created>1766293307035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293307035</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: DiscodeitException 기본 예외 클래스 정의">
+      <option name="closed" value="true" />
+      <created>1766293370289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293370289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: User 도메인 커스텀 예외 클래스 정의">
+      <option name="closed" value="true" />
+      <created>1766293532895</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293532895</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: Channel 도메인 커스텀 예외 클래스 정의">
+      <option name="closed" value="true" />
+      <created>1766293727730</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293727730</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: Message 도메인 커스텀 예외 클래스 정의">
+      <option name="closed" value="true" />
+      <created>1766293841475</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293841475</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: BinaryContent 도메인 커스텀 예외 클래스 정의">
+      <option name="closed" value="true" />
+      <created>1766293904852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766293904852</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: ReadStatus 도메인 커스텀 예외 클래스 정의">
+      <option name="closed" value="true" />
+      <created>1766294012288</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766294012288</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: UserStatus 도메인 커스텀 예외 클래스 정의">
+      <option name="closed" value="true" />
+      <created>1766294227796</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1766294227796</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: ErrorResponse DTO 정의">
+      <option name="closed" value="true" />
+      <created>1766294363768</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1766294363768</updated>
+    </task>
+    <task id="LOCAL-00013" summary="refactor: GlobalExceptionHandler 커스텀 예외 및 유효성 검증 처리">
+      <option name="closed" value="true" />
+      <created>1766294411851</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1766294411851</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: Request DTO 유효성 검증 어노테이션 추가">
+      <option name="closed" value="true" />
+      <created>1766297674301</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1766297674301</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: 컨트롤러 @Valid 유효성 검증 및 로깅 적용">
+      <option name="closed" value="true" />
+      <created>1766298600943</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1766298600943</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="config: 개발/운영/테스트 환경 프로파일 설정 분리" />
+    <MESSAGE value="config: Logback 로깅 설정 및 파일 롤링 구성" />
+    <MESSAGE value="config: Actuator 엔드포인트 및 애플리케이션 정보 설정" />
+    <MESSAGE value="feat: ErrorCode Enum 클래스 정의" />
+    <MESSAGE value="feat: DiscodeitException 기본 예외 클래스 정의" />
+    <MESSAGE value="feat: User 도메인 커스텀 예외 클래스 정의" />
+    <MESSAGE value="feat: Channel 도메인 커스텀 예외 클래스 정의" />
+    <MESSAGE value="feat: Message 도메인 커스텀 예외 클래스 정의" />
+    <MESSAGE value="feat: BinaryContent 도메인 커스텀 예외 클래스 정의" />
+    <MESSAGE value="feat: ReadStatus 도메인 커스텀 예외 클래스 정의" />
+    <MESSAGE value="feat: UserStatus 도메인 커스텀 예외 클래스 정의" />
+    <MESSAGE value="feat: ErrorResponse DTO 정의" />
+    <MESSAGE value="refactor: GlobalExceptionHandler 커스텀 예외 및 유효성 검증 처리" />
+    <MESSAGE value="feat: Request DTO 유효성 검증 어노테이션 추가" />
+    <MESSAGE value="feat: 컨트롤러 @Valid 유효성 검증 및 로깅 적용" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 컨트롤러 @Valid 유효성 검증 및 로깅 적용" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/build.gradle</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
